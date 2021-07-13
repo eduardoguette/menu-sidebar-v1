@@ -28,6 +28,7 @@ const Navbar = () => {
             {SidebarData.map(({ cName, title, path, icon }, index) => (
               <li key={index} className={cName}>
                 <Link to={path}>
+                  {icon}
                   <span>{title}</span>
                 </Link>
               </li>

@@ -13,7 +13,7 @@ const SidebarData = [
   {
     title: "Reports",
     path: "/reports",
-    icon: <IoIcons.IoIospaper />,
+    icon: <IoIcons.IoIosPaper />,
     cName: "nav-text"
   },
   {
