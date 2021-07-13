@@ -21,3 +21,10 @@
   font-weight: 700;
   opacity: 0.8;
 }
+.item-footer {
+  font-weight: 600;
+  text-align: center;
+  padding: 1rem 0;
+  width: 100%;
+  opacity: 0.5;
+}

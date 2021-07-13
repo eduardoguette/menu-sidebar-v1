@@ -20,6 +20,7 @@ export default function App() {
             <NoMatch />
           </Route>
         </Switch>
+        <p class="item-footer">© Eduardo Guette 2021.</p>
       </Router>
     </>
   );
