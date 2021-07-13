@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Lato, sans-serif;
+}
+
+.home,
+.product,
+.reports,
+.no-match {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+  font-size: 3rem;
+  flex-direction: column;
+}
+.no-match small {
+  font-size: 14px;
+  font-weight: 700;
+  opacity: 0.8;
+}
